@@ -46,6 +46,9 @@
  *                             completed:
  *                               type: number
  *                               descryption: Lines are translated by team
+ *                             image:
+ *                               type: string
+ *                               description: Image Banner of the event
  */
 
 export async function GET() {
